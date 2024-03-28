@@ -1,0 +1,4 @@
+n="##A#H##"
+count=n.count('#')
+print(count)
+print(n.replace("#","")+count* "#")

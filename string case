@@ -1,0 +1,19 @@
+# zfill
+str = '4'
+print(str.zfill(10))
+#lower upper
+str='mamatha'
+print(str.upper())
+str='mounika'
+print(str.lower())
+#max min
+str='mounikagaru'
+print(max(str))
+str='mammu'
+print(min(str))
+#replace
+str="hi hi hello bye bye tata"
+print(str.replace('hello','bye'))
+print(ord('r'))
+print(chr(66))
+print(chr(123))
